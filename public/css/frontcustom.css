@@ -1,0 +1,6 @@
+*{margin:0;padding: 0;}
+.single-blgo{border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+    min-height: 150px;margin-bottom: 10px;}
+.pagination{margin:21px 0 0px 14px !important;}
